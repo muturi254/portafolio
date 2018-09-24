@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Lora|Oswald');
+body{
+    /* background: blue !important; */
+   /* background-image: linear-gradient(to right, #F1F2B5 , #135058) !important; */
+  background-image: linear-gradient(to right, #d7d2cc 0%, #304352 100%) !important;
+}
+.center{
+    margin: 10em 0;
+}
+.left{
+    /* border-right: 1px red solid; */
+    padding-right: 0px !important;
+}
+.right{
+    padding: 2rem !important;
+}
+h3{
+    font-family: 'Oswald', sans-serif !important;
+    border-bottom: #c2ce9c solid;
+    margin-bottom: 2rem !important;
+}
+p{
+    font-family: 'Lora', sans-serif !important;
+}
+.icon{
+    padding: 0.3rem;
+}
+.parentIcon{
+    margin-top:4rem;
+}
